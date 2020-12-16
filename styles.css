@@ -10,3 +10,9 @@ body {
 p {
     color: rgb(142, 151, 204);
 }
+
+.card {
+    background-color: white;
+    padding: 20px 30px;
+    margin: 30px;
+}
